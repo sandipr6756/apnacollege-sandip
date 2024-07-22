@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-12T09:08:41 IST" name="Suite" finished-at="2024-06-12T09:09:43 IST" duration-ms="62568">
+    <groups>
+    </groups>
+    <test started-at="2024-06-12T09:08:41 IST" name="Test" finished-at="2024-06-12T09:09:43 IST" duration-ms="62568">
+      <class name="Test.HomePageTest">
+        <test-method is-config="true" signature="initSetup()[pri:0, instance:Test.HomePageTest@3e27aa33]" started-at="2024-06-12T09:08:34 IST" name="initSetup" finished-at="2024-06-12T09:08:41 IST" duration-ms="6337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSetup -->
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:Test.HomePageTest@3e27aa33]" started-at="2024-06-12T09:08:41 IST" name="launchUrl" finished-at="2024-06-12T09:09:40 IST" duration-ms="58834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method is-config="true" signature="initializeObject()[pri:0, instance:Test.HomePageTest@3e27aa33]" started-at="2024-06-12T09:09:40 IST" name="initializeObject" finished-at="2024-06-12T09:09:40 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeObject -->
+        <test-method signature="urlTest()[pri:1, instance:Test.HomePageTest@3e27aa33]" started-at="2024-06-12T09:09:40 IST" name="urlTest" finished-at="2024-06-12T09:09:40 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method signature="logoTest()[pri:2, instance:Test.HomePageTest@3e27aa33]" started-at="2024-06-12T09:09:40 IST" name="logoTest" finished-at="2024-06-12T09:09:40 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method signature="searchFieldText()[pri:3, instance:Test.HomePageTest@3e27aa33]" started-at="2024-06-12T09:09:40 IST" name="searchFieldText" finished-at="2024-06-12T09:09:42 IST" duration-ms="1688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFieldText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.HomePageTest@3e27aa33]" started-at="2024-06-12T09:09:42 IST" name="tearDown" finished-at="2024-06-12T09:09:43 IST" duration-ms="1640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
